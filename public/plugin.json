@@ -1,0 +1,11 @@
+{
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "linux",
+      "explain": "Linux 命令文档速查",
+      "cmds": ["Linux"]
+    }
+  ]
+}
