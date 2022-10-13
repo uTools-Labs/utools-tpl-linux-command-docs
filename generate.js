@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const marked = require('marked')
+const { marked } = require('marked')
 const hljs = require('highlight.js')
 marked.setOptions({
   highlight: function (code) {
